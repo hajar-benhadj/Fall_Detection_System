@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local snapshots and images
+fall_snapshot.jpg
+
+# Environment variables or secrets
+.env
