@@ -3,7 +3,9 @@ __pycache__/
 *.pyc
 
 # Local snapshots and images
-fall_snapshot.jpg
+*.jpg
+*.jpeg
+*.png
 
 # Environment variables or secrets
 .env
