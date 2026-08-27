@@ -67,3 +67,8 @@ If this project helped you build a safety system or learn pose-based detection, 
 ## 📄 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+
+
+## 🎬 Demo
+
+![demo](docs/demo.gif)
