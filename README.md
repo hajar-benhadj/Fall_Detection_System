@@ -57,3 +57,13 @@ pip install opencv-python mediapipe==0.10.14 numpy requests
 
 # 3. Run the application (Make sure to configure your Telegram credentials in fall_detection.py first)
 python fall_detection.py
+
+---
+
+## ⭐ Show Your Support
+
+If this project helped you build a safety system or learn pose-based detection, please give it a ⭐ — it helps others discover it!
+
+## 📄 License
+
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
